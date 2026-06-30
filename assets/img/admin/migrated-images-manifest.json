@@ -1,0 +1,352 @@
+[
+  {
+    "path": "fields.home.hero.slides.$json.0.src",
+    "file": "assets/img/admin/pages/home-hero-slides-0.jpg",
+    "bytes": 167299,
+    "mime": "image/jpeg",
+    "sha1": "880cbf3b416c7ec452dd4c57a498456656659c97"
+  },
+  {
+    "path": "fields.home.hero.slides.$json.1.src",
+    "file": "assets/img/admin/pages/home-hero-slides-1.jpg",
+    "bytes": 214572,
+    "mime": "image/jpeg",
+    "sha1": "8ecfa1a3265108e35f1fafdccf81a263ad562015"
+  },
+  {
+    "path": "fields.home.hero.slides.$json.2.src",
+    "file": "assets/img/admin/pages/home-hero-slides-2.jpg",
+    "bytes": 253897,
+    "mime": "image/jpeg",
+    "sha1": "d19acddb6798db75224f728b57d741b2d567b9c5"
+  },
+  {
+    "path": "fields.home.vehicle.cards.$json.0.src",
+    "file": "assets/img/admin/pages/home-vehicle-cards-0.jpg",
+    "bytes": 134827,
+    "mime": "image/jpeg",
+    "sha1": "8e92a0acd88bef528e2c1a1b0ec8bcba96436ee9"
+  },
+  {
+    "path": "fields.home.vehicle.cards.$json.1.src",
+    "file": "assets/img/admin/pages/home-vehicle-cards-1.jpg",
+    "bytes": 104209,
+    "mime": "image/jpeg",
+    "sha1": "de4a5d0e6bffe24e08940717196169d7f05d13e7"
+  },
+  {
+    "path": "fields.home.vehicle.cards.$json.2.src",
+    "file": "assets/img/admin/pages/home-vehicle-cards-2.jpg",
+    "bytes": 178931,
+    "mime": "image/jpeg",
+    "sha1": "7e5dbf107af8474487f652bdbb6618f8f880b64f"
+  },
+  {
+    "path": "fields.about.profile.image",
+    "file": "assets/img/admin/pages/about-profile-image.jpg",
+    "bytes": 80405,
+    "mime": "image/jpeg",
+    "sha1": "ad7a8567c9f5ac63e712af20e7e33f689bc25942"
+  },
+  {
+    "path": "fields.about.video.poster",
+    "file": "assets/img/admin/pages/about-video-poster.jpg",
+    "bytes": 79152,
+    "mime": "image/jpeg",
+    "sha1": "8a8779d2b7abfd1773d383ac3c973abdc640ee97"
+  },
+  {
+    "path": "fields.about.evidence.card1.image",
+    "file": "assets/img/admin/pages/about-evidence-card1-image.jpg",
+    "bytes": 84377,
+    "mime": "image/jpeg",
+    "sha1": "01bf4fa4cf43f7b0b530436a8d0481472aa1612b"
+  },
+  {
+    "path": "fields.about.evidence.card2.image",
+    "file": "assets/img/admin/pages/about-evidence-card2-image.jpg",
+    "bytes": 85781,
+    "mime": "image/jpeg",
+    "sha1": "88fe6496a459da630ca558fb17bd179159a0093d"
+  },
+  {
+    "path": "fields.about.evidence.card3.image",
+    "file": "assets/img/admin/pages/about-evidence-card3-image.jpg",
+    "bytes": 83475,
+    "mime": "image/jpeg",
+    "sha1": "decf8f27adb97d4fa33e721b0f8a5c2a4757ffcb"
+  },
+  {
+    "path": "fields.about.credentials.image",
+    "file": "assets/img/admin/pages/about-credentials-image.jpg",
+    "bytes": 79303,
+    "mime": "image/jpeg",
+    "sha1": "a9fbd3a00664bc21e679ba96f0dc36821c3e285b"
+  },
+  {
+    "path": "fields.about.customization.image",
+    "file": "assets/img/admin/pages/about-customization-image.jpg",
+    "bytes": 88014,
+    "mime": "image/jpeg",
+    "sha1": "c8f3ff0d7dbef0342704dbd95fa07a6e605917e6"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-premium.bannerImage",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-premium-banner-image.jpg",
+    "bytes": 18987,
+    "mime": "image/jpeg",
+    "sha1": "a79a17c726f946ce8f223a630eb8db70c5b7dc67"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-premium.gallery.0.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-premium-gallery-01.jpg",
+    "bytes": 30825,
+    "mime": "image/jpeg",
+    "sha1": "596a25b02e95ec0e0a26a2db2f6a7624804e3572"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-premium.gallery.1.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-premium-gallery-02.jpg",
+    "bytes": 21821,
+    "mime": "image/jpeg",
+    "sha1": "45f1f621607038363915a2f291332ea228068dbe"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-premium.gallery.2.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-premium-gallery-03.jpg",
+    "bytes": 27315,
+    "mime": "image/jpeg",
+    "sha1": "1bcfbb809428bbe4f4fdb9d678c047745c903821"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-elite.bannerImage",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-elite-banner-image.jpg",
+    "bytes": 20811,
+    "mime": "image/jpeg",
+    "sha1": "8e5a4753f4cdfbc0a56e71bec45eeba5833fea61"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-elite.gallery.0.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-elite-gallery-01.jpg",
+    "bytes": 30978,
+    "mime": "image/jpeg",
+    "sha1": "b0f0ef9b4e709ccbd8c459571d5de71b7dede53b"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-elite.gallery.1.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-elite-gallery-02.jpg",
+    "bytes": 21825,
+    "mime": "image/jpeg",
+    "sha1": "43be075d5d0b4623f421e5db29e8ef97af9a5088"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-elite.gallery.2.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-elite-gallery-03.jpg",
+    "bytes": 27321,
+    "mime": "image/jpeg",
+    "sha1": "01de82d4a88ef8bb98f076f943936c4cad8dd3d5"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-pioneer.bannerImage",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-pioneer-banner-image.jpg",
+    "bytes": 18472,
+    "mime": "image/jpeg",
+    "sha1": "0324e2652125fb776f5c1a13977713641f04f543"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-pioneer.gallery.0.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-pioneer-gallery-01.jpg",
+    "bytes": 30830,
+    "mime": "image/jpeg",
+    "sha1": "b163c1c11bb7f177974be886f93dd5b3581d9ace"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-pioneer.gallery.1.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-pioneer-gallery-02.jpg",
+    "bytes": 21823,
+    "mime": "image/jpeg",
+    "sha1": "0c2e07723cb2a4f5029e65e0a2f3bcfec5a40656"
+  },
+  {
+    "path": "vehicles.toyota-corolla-2026-pioneer.gallery.2.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-2026-pioneer-gallery-03.jpg",
+    "bytes": 27309,
+    "mime": "image/jpeg",
+    "sha1": "ad9d3438c6e9637121f0475a0890a1cd882b644c"
+  },
+  {
+    "path": "vehicles.kia-k3-2024-comfort.bannerImage",
+    "file": "assets/img/admin/vehicles/kia-k3-2024-comfort-banner-image.jpg",
+    "bytes": 18557,
+    "mime": "image/jpeg",
+    "sha1": "0a48498929a7882bdd881011a9293a0a95e63c7a"
+  },
+  {
+    "path": "vehicles.changan-hunter-warrior-1031km.bannerImage",
+    "file": "assets/img/admin/vehicles/changan-hunter-warrior-1031km-banner-image.jpg",
+    "bytes": 24744,
+    "mime": "image/jpeg",
+    "sha1": "a40b9280bf348aa600d5c89500fa27a8042af2ce"
+  },
+  {
+    "path": "vehicles.changan-hunter-warrior-1031km.gallery.0.src",
+    "file": "assets/img/admin/vehicles/changan-hunter-warrior-1031km-gallery-01.jpg",
+    "bytes": 19319,
+    "mime": "image/jpeg",
+    "sha1": "2ad6476016f01ebf596ae58cc8bceb08a0d237b2"
+  },
+  {
+    "path": "vehicles.changan-hunter-warrior-1031km.gallery.1.src",
+    "file": "assets/img/admin/vehicles/changan-hunter-warrior-1031km-gallery-02.jpg",
+    "bytes": 19509,
+    "mime": "image/jpeg",
+    "sha1": "45a6e4a8316aae786cd5f7a9d0d190df1a9d5740"
+  },
+  {
+    "path": "vehicles.changan-hunter-warrior-1031km.gallery.2.src",
+    "file": "assets/img/admin/vehicles/changan-hunter-warrior-1031km-gallery-03.jpg",
+    "bytes": 15376,
+    "mime": "image/jpeg",
+    "sha1": "a0aae04fe5f25016a1fa7e15e45a4f71a45c36cc"
+  },
+  {
+    "path": "vehicles.toyota-corolla-cross-2026.bannerImage",
+    "file": "assets/img/admin/vehicles/toyota-corolla-cross-2026-banner-image.jpg",
+    "bytes": 20197,
+    "mime": "image/jpeg",
+    "sha1": "56e140d2a22bacc79bc2757a6b422a08c69c75c9"
+  },
+  {
+    "path": "vehicles.toyota-corolla-cross-2026.gallery.0.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-cross-2026-gallery-01.jpg",
+    "bytes": 27273,
+    "mime": "image/jpeg",
+    "sha1": "949aef44ca52693418bf08fbec102090200ff90d"
+  },
+  {
+    "path": "vehicles.toyota-corolla-cross-2026.gallery.1.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-cross-2026-gallery-02.jpg",
+    "bytes": 31044,
+    "mime": "image/jpeg",
+    "sha1": "5ccfd8f02ba64078d292f5c34caaadaad2fd2e19"
+  },
+  {
+    "path": "vehicles.toyota-corolla-cross-2026.gallery.2.src",
+    "file": "assets/img/admin/vehicles/toyota-corolla-cross-2026-gallery-03.jpg",
+    "bytes": 28468,
+    "mime": "image/jpeg",
+    "sha1": "18eb1fae16a242e1703ce3f80a0414d7bd789667"
+  },
+  {
+    "path": "vehicles.hyundai-elantra-2023-premium.bannerImage",
+    "file": "assets/img/admin/vehicles/hyundai-elantra-2023-premium-banner-image.jpg",
+    "bytes": 14347,
+    "mime": "image/jpeg",
+    "sha1": "16828c055863fd4901ccd14c99f4bc6cd395f445"
+  },
+  {
+    "path": "vehicles.hyundai-elantra-2023-premium.gallery.0.src",
+    "file": "assets/img/admin/vehicles/hyundai-elantra-2023-premium-gallery-01.jpg",
+    "bytes": 23314,
+    "mime": "image/jpeg",
+    "sha1": "801ab023a490cdf295682f815799902dd38f915b"
+  },
+  {
+    "path": "vehicles.hyundai-elantra-2023-premium.gallery.1.src",
+    "file": "assets/img/admin/vehicles/hyundai-elantra-2023-premium-gallery-02.jpg",
+    "bytes": 32320,
+    "mime": "image/jpeg",
+    "sha1": "363ca670d667fe6a890a3524a22a2daebdd742ae"
+  },
+  {
+    "path": "vehicles.hyundai-elantra-2023-premium.gallery.2.src",
+    "file": "assets/img/admin/vehicles/hyundai-elantra-2023-premium-gallery-03.jpg",
+    "bytes": 30110,
+    "mime": "image/jpeg",
+    "sha1": "e90ad3e1eeb3e173db7727af1425b6c19acb7b2b"
+  },
+  {
+    "path": "vehicles.geely-bin-yue-l-2025.bannerImage",
+    "file": "assets/img/admin/vehicles/geely-bin-yue-l-2025-banner-image.jpg",
+    "bytes": 21599,
+    "mime": "image/jpeg",
+    "sha1": "23fca08a028c6cfd757c59b201821a0e1bd5d062"
+  },
+  {
+    "path": "vehicles.geely-bin-yue-l-2025.gallery.0.src",
+    "file": "assets/img/admin/vehicles/geely-bin-yue-l-2025-gallery-01.jpg",
+    "bytes": 31473,
+    "mime": "image/jpeg",
+    "sha1": "ea894e9d93d4e4b3587202e1403952f804954d3b"
+  },
+  {
+    "path": "vehicles.geely-bin-yue-l-2025.gallery.1.src",
+    "file": "assets/img/admin/vehicles/geely-bin-yue-l-2025-gallery-02.jpg",
+    "bytes": 23700,
+    "mime": "image/jpeg",
+    "sha1": "3cc1060b9c5b716c180d7efdfad5a211a0f19c32"
+  },
+  {
+    "path": "vehicles.geely-bin-yue-l-2025.gallery.2.src",
+    "file": "assets/img/admin/vehicles/geely-bin-yue-l-2025-gallery-03.jpg",
+    "bytes": 20235,
+    "mime": "image/jpeg",
+    "sha1": "6f903dc64e7ab1b176706b268919c4c582706306"
+  },
+  {
+    "path": "vehicles.mazda-ez-60-600-max.bannerImage",
+    "file": "assets/img/admin/vehicles/mazda-ez-60-600-max-banner-image.jpg",
+    "bytes": 15382,
+    "mime": "image/jpeg",
+    "sha1": "6560e1c1fa58066460f95dd9a0e8235c17928744"
+  },
+  {
+    "path": "vehicles.mazda-ez-60-600-max.gallery.0.src",
+    "file": "assets/img/admin/vehicles/mazda-ez-60-600-max-gallery-01.jpg",
+    "bytes": 22522,
+    "mime": "image/jpeg",
+    "sha1": "705e81f28ef6b8e28bd4312d922c3171071ae326"
+  },
+  {
+    "path": "vehicles.mazda-ez-60-600-max.gallery.1.src",
+    "file": "assets/img/admin/vehicles/mazda-ez-60-600-max-gallery-02.jpg",
+    "bytes": 19438,
+    "mime": "image/jpeg",
+    "sha1": "90507bcd4b5f581a0a9d789f4c235ef43e8f5273"
+  },
+  {
+    "path": "vehicles.mazda-ez-60-600-max.gallery.2.src",
+    "file": "assets/img/admin/vehicles/mazda-ez-60-600-max-gallery-03.jpg",
+    "bytes": 23635,
+    "mime": "image/jpeg",
+    "sha1": "0e4fb9ec392ec64638b522bd38b16758feab45c0"
+  },
+  {
+    "path": "vehicles.byd-destroyer-05-dmi.bannerImage",
+    "file": "assets/img/admin/vehicles/byd-destroyer-05-dmi-banner-image.jpg",
+    "bytes": 20499,
+    "mime": "image/jpeg",
+    "sha1": "bd067bb4fe1f998ac697f9fb2591a061e334430c"
+  },
+  {
+    "path": "vehicles.byd-destroyer-05-dmi.gallery.0.src",
+    "file": "assets/img/admin/vehicles/byd-destroyer-05-dmi-gallery-01.jpg",
+    "bytes": 34332,
+    "mime": "image/jpeg",
+    "sha1": "955ccb51e94586f8446c4c2b8b9c56f50b1e77ec"
+  },
+  {
+    "path": "vehicles.byd-destroyer-05-dmi.gallery.1.src",
+    "file": "assets/img/admin/vehicles/byd-destroyer-05-dmi-gallery-02.jpg",
+    "bytes": 35258,
+    "mime": "image/jpeg",
+    "sha1": "b51eb9d34823d208555d68ed8757ad9563601379"
+  },
+  {
+    "path": "vehicles.byd-destroyer-05-dmi.gallery.2.src",
+    "file": "assets/img/admin/vehicles/byd-destroyer-05-dmi-gallery-03.jpg",
+    "bytes": 35589,
+    "mime": "image/jpeg",
+    "sha1": "c2c8d126671e27985dee388e7651aa79780609fc"
+  }
+]
