@@ -1,0 +1,263 @@
+{
+  "updatedAt": "2026-06-16T12:08:57.788Z",
+  "interiors": {
+    "gac-aion-ut": {
+      "count": 9,
+      "sources": [
+        {
+          "id": "13081431",
+          "classid": 10,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M04/DE/54/autohomecar__ChxpVWoQbQWAc_dwAEhsCk7zVpg915.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-01.jpg",
+          "bytes": 839638
+        },
+        {
+          "id": "13081430",
+          "classid": 10,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M01/DE/55/autohomecar__ChxpVWoQbQyAKkNnAD6Dhxsa3-U754.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-02.jpg",
+          "bytes": 544707
+        },
+        {
+          "id": "13081429",
+          "classid": 10,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M09/DE/6A/autohomecar__Chto52oQbQmAGe5jAEJEU1KIXQg252.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-03.jpg",
+          "bytes": 709108
+        },
+        {
+          "id": "13081428",
+          "classid": 10,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M03/DE/56/autohomecar__ChxpVmoQbQ2Af8vVAD89SoEclsI015.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-04.jpg",
+          "bytes": 636401
+        },
+        {
+          "id": "13081427",
+          "classid": 10,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M05/DE/56/autohomecar__ChxpVmoQbQKAKjyiADWQCw28JJE186.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-05.jpg",
+          "bytes": 419947
+        },
+        {
+          "id": "13081420",
+          "classid": 3,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M0B/DE/6C/autohomecar__Chto52oQbTaANQ2RAD2hyKnSNT8665.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-06.jpg",
+          "bytes": 606970
+        },
+        {
+          "id": "13081419",
+          "classid": 3,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M07/DE/58/autohomecar__ChxpVmoQbUeAaoI9AD3v3XixcTM250.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-07.jpg",
+          "bytes": 550783
+        },
+        {
+          "id": "13081418",
+          "classid": 3,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M09/DE/6C/autohomecar__Chto52oQbS2AFnbWAEV4e5IjvZE611.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-08.jpg",
+          "bytes": 705220
+        },
+        {
+          "id": "13081417",
+          "classid": 3,
+          "specid": "77702",
+          "specname": "2026款 320 星辉版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g34/M08/D9/CA/autohomecar__ChxpV2oQbV6AfdD5AE_8TPCFCL0208.jpg",
+          "local": "assets/img/vehicles/interiors/gac-aion-ut-interior-09.jpg",
+          "bytes": 914331
+        }
+      ]
+    },
+    "faw-audi-q6l-etron": {
+      "count": 9,
+      "sources": [
+        {
+          "id": "11791798",
+          "classid": 10,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g34/M05/EE/20/autohomecar__ChtpWGiVYP2AEXqtACBJeNcfTWU479.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-01.jpg",
+          "bytes": 918124
+        },
+        {
+          "id": "11791797",
+          "classid": 10,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M0B/F7/07/autohomecar__ChxpVmiVYPmAXm6VABtvAniO2WU166.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-02.jpg",
+          "bytes": 643621
+        },
+        {
+          "id": "11791796",
+          "classid": 10,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M00/F7/11/autohomecar__ChxpVWiVYPmAXykbABkuynzJFlk581.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-03.jpg",
+          "bytes": 560371
+        },
+        {
+          "id": "11791795",
+          "classid": 10,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g34/M09/EE/1D/autohomecar__ChtpWGiVYPqALTKmABt1FiYugFQ072.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-04.jpg",
+          "bytes": 664288
+        },
+        {
+          "id": "11791794",
+          "classid": 10,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g34/M03/ED/FB/autohomecar__ChxpWGiVYPuAHBnfACyd4qszqg0564.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-05.jpg",
+          "bytes": 757725
+        },
+        {
+          "id": "11791852",
+          "classid": 3,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g34/M01/EE/04/autohomecar__ChxpV2iVYWGACgaTAC0EE6RTPzU644.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-06.jpg",
+          "bytes": 510322
+        },
+        {
+          "id": "11791851",
+          "classid": 3,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g34/M08/EE/26/autohomecar__ChtpWGiVYWKAXrKRACE58fjZuMY798.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-07.jpg",
+          "bytes": 730431
+        },
+        {
+          "id": "11791850",
+          "classid": 3,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g34/M03/EE/04/autohomecar__ChxpWGiVYWCALtNpAB_9WcA3jvw713.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-08.jpg",
+          "bytes": 349360
+        },
+        {
+          "id": "11791849",
+          "classid": 3,
+          "specid": "73243",
+          "specname": "2026款 首发领航版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g34/M08/EE/26/autohomecar__ChtpWGiVYV2AZCcJAB3Kpv6y_jw290.jpg",
+          "local": "assets/img/vehicles/interiors/audi-q6l-etron-interior-09.jpg",
+          "bytes": 261144
+        }
+      ]
+    },
+    "faw-audi-a6l-etron": {
+      "count": 9,
+      "sources": [
+        {
+          "id": "13019270",
+          "classid": 10,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M00/C8/E1/autohomecar__ChxpVmn2J--Add5UACWttzeQoFM710.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-01.jpg",
+          "bytes": 853952
+        },
+        {
+          "id": "13019269",
+          "classid": 10,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g34/M02/C2/76/autohomecar__ChtpWGn2J_aAVYJ4ACVn1fm0iFg610.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-02.jpg",
+          "bytes": 783806
+        },
+        {
+          "id": "13019268",
+          "classid": 10,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M01/C8/E1/autohomecar__ChxpVmn2J_WARtMbACKjPHuLyqI677.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-03.jpg",
+          "bytes": 655213
+        },
+        {
+          "id": "13019267",
+          "classid": 10,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M0A/C8/E0/autohomecar__ChxpVWn2J_OAU24VACSEh_IE-Kc390.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-04.jpg",
+          "bytes": 752135
+        },
+        {
+          "id": "13019266",
+          "classid": 10,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g34/M0A/C4/A1/autohomecar__ChxpV2n2J_KAR5MyACGO4TPkmqU103.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-05.jpg",
+          "bytes": 671594
+        },
+        {
+          "id": "13019218",
+          "classid": 3,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M05/C8/E2/autohomecar__ChxpVmn2KBGAS6k2ACCXUWw1Ep8218.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-06.jpg",
+          "bytes": 735164
+        },
+        {
+          "id": "13019217",
+          "classid": 3,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M01/C8/F8/autohomecar__Chto52n2KBqAVutMACYi4ulfsZQ772.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-07.jpg",
+          "bytes": 743992
+        },
+        {
+          "id": "13019216",
+          "classid": 3,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car3.autoimg.cn/cardfs/product/g33/M08/C8/E0/autohomecar__ChxpVWn2KBGAOj7GABwT5rKW40E462.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-08.jpg",
+          "bytes": 668466
+        },
+        {
+          "id": "13019215",
+          "classid": 3,
+          "specid": "75885",
+          "specname": "2026款 首发乾崑智驾版",
+          "imgurl": "https://car2.autoimg.cn/cardfs/product/g33/M04/C8/E1/autohomecar__ChxpVWn2KBiAFQadACKj24ttAWE468.jpg",
+          "local": "assets/img/vehicles/interiors/audi-a6l-etron-interior-09.jpg",
+          "bytes": 307899
+        }
+      ]
+    }
+  }
+}
